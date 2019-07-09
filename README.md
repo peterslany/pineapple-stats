@@ -11,7 +11,7 @@ Facebook messages stats for groups and individuals from JSON data. Built using t
 • dash and requirements for dash, [please visit this site for the installation instructions](https://dash.plot.ly/installation)
 
 # Preview
-You can see the preview of the statistics with sample data [here]().
+You can see the preview of the statistics with sample data [here](https://pineapple-stats.herokuapp.com/).
 
 # How to make your own statistics
 Clone the repository.
